@@ -1,9 +1,9 @@
 <?php
 
-
+// ChanekID  1656885079
 $API_URL = 'https://api.line.me/v2/bot/message';
-$ACCESS_TOKEN = 'ouhqskdRP/sUP8uwpjAadPDJz6rj1Y3IR0/ZznmHBgsPmYq6Q+hzdEJ4OXgyw/8NaLy6GLAZYYbLhF/7S6i8K07k3yxT0sWcMEa6ixgJ2c0XIOEKRfUEQAsHVi4PbQU4HEk9GOq/cmdR3iRkQE9e5gdB04t89/1O/w1cDnyilFU='; 
-$channelSecret = 'ba6e01c3eb0671a32e7d9fb3dbabd67d';
+$ACCESS_TOKEN = 'YZFld7obDNr+u8I/RjrlUHVv5OCjPiuS94OkXhJdwkJYnfr39jEelVgw8pSMHPFW1cT3eM3cXE/fSzj8iFn+0zEv2BrJ2U9qf9J7+rKDuU47bYW92kLGy4WRX+HM4l46Vz83AD/oC+egpwXu362ImwdB04t89/1O/w1cDnyilFU='; 
+$channelSecret = '106cc92906f1d07fb4f39202a43d2957';
 
 
 $POST_HEADER = array('Content-Type: application/json', 'Authorization: Bearer ' . $ACCESS_TOKEN);
